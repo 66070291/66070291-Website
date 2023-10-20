@@ -1,0 +1,21 @@
+#body {
+    background-color: antiquewhite;
+}
+
+.redtext{
+    color: brown;
+    font-weight: 500px;
+}
+#first{
+    display: inline-block;
+    padding: 20px;
+    margin: 0px 500px;
+    border: 2px black solid;
+}
+.big {
+    font-size: 64px;
+
+}
+h1 {
+    font-size: 32px;
+}
