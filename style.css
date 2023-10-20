@@ -1,7 +1,9 @@
 #body {
-    background-color: antiquewhite;
+    background-image: url(https://i.pinimg.com/originals/2f/db/80/2fdb80a1219c99ea0c59d82aede974e9.jpg);
 }
-
+.logo{
+    margin: 5px 300px;
+}
 .redtext{
     color: brown;
     font-weight: 500px;
@@ -14,8 +16,21 @@
 }
 .big {
     font-size: 64px;
-
 }
 h1 {
     font-size: 32px;
+    background-color: aquamarine;
+    width: auto;
+    border-radius: 20px;
+    margin: 0px 300px;
+    text-align: center;
+}
+.para{
+    font-size: 30px;
+    background-color: beige;
+    margin: 5px 300px;
+    border: 5px solid red;
+}
+#bigal{
+    font-size: 45;
 }
